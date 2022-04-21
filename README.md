@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoang Minh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🏫 I'm studying at FPTU HCM **Bachelor Program of Information Technology, Software Engineering Major**
 
