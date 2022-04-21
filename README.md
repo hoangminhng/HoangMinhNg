@@ -2,7 +2,7 @@
 
 - 🏫 I'm studying at FPTU HCM **Bachelor Program of Information Technology, Software Engineering Major**
 
-- 🌱 I’m currently learning **Game Development,**
+- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **hoangminh30042003@gmail.com**
 
