@@ -2,9 +2,9 @@
 
 - 🏫 I'm studying at FPTU HCM **Bachelor Program of Information Technology, Software Engineering Major**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently going to be **Fullstack Development**
 
-- 📫 How to reach me **hoangminh30042003@gmail.com**
+- 📫 How to reach me **ngminh3004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
